@@ -1,0 +1,10 @@
+c:\Users\joshb\Desktop\Software\EDX\Mod1_SelfAssessment\myApp\obj\Debug\netcoreapp2.0\myApp.csproj.CoreCompileInputs.cache
+c:\Users\joshb\Desktop\Software\EDX\Mod1_SelfAssessment\myApp\obj\Debug\netcoreapp2.0\myApp.AssemblyInfoInputs.cache
+c:\Users\joshb\Desktop\Software\EDX\Mod1_SelfAssessment\myApp\obj\Debug\netcoreapp2.0\myApp.AssemblyInfo.cs
+c:\Users\joshb\Desktop\Software\EDX\Mod1_SelfAssessment\myApp\bin\Debug\netcoreapp2.0\myApp.deps.json
+c:\Users\joshb\Desktop\Software\EDX\Mod1_SelfAssessment\myApp\bin\Debug\netcoreapp2.0\myApp.runtimeconfig.json
+c:\Users\joshb\Desktop\Software\EDX\Mod1_SelfAssessment\myApp\bin\Debug\netcoreapp2.0\myApp.runtimeconfig.dev.json
+c:\Users\joshb\Desktop\Software\EDX\Mod1_SelfAssessment\myApp\bin\Debug\netcoreapp2.0\myApp.dll
+c:\Users\joshb\Desktop\Software\EDX\Mod1_SelfAssessment\myApp\bin\Debug\netcoreapp2.0\myApp.pdb
+c:\Users\joshb\Desktop\Software\EDX\Mod1_SelfAssessment\myApp\obj\Debug\netcoreapp2.0\myApp.dll
+c:\Users\joshb\Desktop\Software\EDX\Mod1_SelfAssessment\myApp\obj\Debug\netcoreapp2.0\myApp.pdb
