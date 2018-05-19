@@ -26,7 +26,7 @@ namespace Mod3_Lab1
                 String contents = streamReaderObject.ReadToEnd();
 
                 // closes StreamReader
-                streamReaderObject.Close();
+                //streamReaderObject.Close();
 
                 //writes the amount of text elements in the text file to the console
                 Console.WriteLine("The file has {0} text elements.", new StringInfo(contents).LengthInTextElements);
@@ -36,6 +36,18 @@ namespace Mod3_Lab1
             {
                 //informs user there is no file created
                 Console.WriteLine("The file cannot be found.");
+            }
+            // invoking the dispose method in a finally block
+            // note that code in the finally block will always be executed
+            finally
+            {
+                // checks if object is not null
+                if (streamReaderObject != null)
+                {
+                    //calls upon the dispose method
+                    // releases all resources used by the textReader object
+                    streamReaderObject.Dispose();
+                }
             }
         }  
     }
